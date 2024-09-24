@@ -1,0 +1,4 @@
+baseURL = 'https://lucasgreenwood.com/'
+languageCode = 'en-us'
+title = 'Lucas Greenwood'
+theme = 'ananke'
